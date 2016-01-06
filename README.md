@@ -1,3 +1,3 @@
 # Recipes
 
-This repository contains recipes for some foods I like.
+Demo project used as part of learning various concepts of VCS (mostly Git) and github.
